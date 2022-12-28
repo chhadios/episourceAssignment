@@ -9,7 +9,7 @@ body {
   background-color: rgb(164, 236, 241);
 }
 #chartcontainer{
-width: 55%;
+width: 70%;
 margin: 20px;
 
 }
@@ -36,7 +36,7 @@ h1 {
 /* You just need to get this field - start */
 
 .search-box {
-  width: 600px;
+  width: 70%;
   position: relative;
   display: flex;
 	bottom: 0;
